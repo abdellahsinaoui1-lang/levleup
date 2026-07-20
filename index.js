@@ -54,7 +54,7 @@ try {
 }
 
 const MESSAGE_CONFIG = {
-    channelId: "1442604146564796567",
+    channelId: "1528804773791400003",
     minInterval: ms('20s'),
     maxInterval: ms('40s'),
 };
