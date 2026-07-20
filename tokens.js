@@ -1,5 +1,5 @@
 export default [
     {
-        token: 'MTUyNjIxNzUyNjc3NjY5Njk3OA.GRkfMK.wASkYp82v3VVmb7YihqShYkPXTS9fhzsX6swhQ',
+        token: 'MTUyNjIxNzUyNjc3NjY5Njk3OA.GbEu70.X--_qhtSZK7SyipUyiicE9fPSGqxiE9ZscWFR8',
     },
 ];
